@@ -1,4 +1,4 @@
-package main
+package numalph_go
 
 import (
 	"regexp"
